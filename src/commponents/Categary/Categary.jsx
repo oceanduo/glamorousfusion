@@ -8,7 +8,7 @@ const Categories = () => {
       <div className="col">
         <div className="row">
           <img
-            src="https://images.pexels.com/photos/818992/pexels-photo-818992.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            src="https://picsum.photos/1600/1000?random=8"
             alt=""
           />
           <button>
@@ -19,7 +19,7 @@ const Categories = () => {
         </div>
         <div className="row">
           <img
-            src="https://images.pexels.com/photos/2036646/pexels-photo-2036646.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            src="https://picsum.photos/1600/1000?random=9"
             alt=""
           />
           <button>
@@ -33,7 +33,7 @@ const Categories = () => {
         <div className="row">
           {" "}
           <img
-            src="https://images.pexels.com/photos/1813947/pexels-photo-1813947.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            src="https://picsum.photos/1600/1000?random=10"
             alt=""
           />
           <button>
@@ -48,7 +48,7 @@ const Categories = () => {
           <div className="col">
             <div className="row">
               <img
-                src="https://images.pexels.com/photos/1192609/pexels-photo-1192609.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://picsum.photos/1600/1000?random=11"
                 alt=""
               />
               <button>
@@ -62,7 +62,7 @@ const Categories = () => {
             <div className="row">
               {" "}
               <img
-                src="https://images.pexels.com/photos/2703202/pexels-photo-2703202.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://picsum.photos/1600/1000?random=12"
                 alt=""
               />
               <button>
@@ -75,7 +75,7 @@ const Categories = () => {
         </div>
         <div className="row">
           <img
-            src="https://images.pexels.com/photos/1159670/pexels-photo-1159670.jpeg?auto=compress&cs=tinysrgb&w=1600"
+            src="https://picsum.photos/1600/1000?random=13"
             alt=""
           />
           <button>

@@ -1,6 +1,8 @@
 .navbar {
     height: 60px;
     padding-top: 15px;
+    
+ 
     .wrapper {
         padding: 0px 30px;
         display: flex;
@@ -13,15 +15,12 @@
             font-size: 18px;
         }
 
-        .left {
-            display: flex;
-            align-items: center;
-            gap: 25px;
-        }
+       
 
         .center {
             font-size: 30px;
             letter-spacing: 2px;
+            
         }
 
         .right {
