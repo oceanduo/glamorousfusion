@@ -3,12 +3,11 @@
     margin-left: 5vw;
     display: flex;
     justify-content: center;
-    
     padding-top: 20px;
 
 
     .left {
-        flex: 1;
+        flex: 2;
         display: flex;
         gap: 20px;
 
@@ -30,11 +29,14 @@
 
         .mainImg {
             flex: 5;
-            max-height: 800px;
+            max-height: 900px;
+            
 
             img {
                 width: 100%;
-                object-fit: cover;
+                max-height: 900px;
+                object-fit: fill;
+               
             }
 
         }

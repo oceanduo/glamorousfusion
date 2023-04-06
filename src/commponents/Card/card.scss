@@ -49,15 +49,17 @@
     .prices{
       display: flex;
       gap: 20px;
+      
+      .sale{
+        color: gray;
+        text-decoration: line-through;
+      }
   
       h3{
         font-size: 18px;
         font-weight: 500;
   
-        &:first-child{
-          color: gray;
-          text-decoration: line-through;
-        }
+        
       }
     }
   }

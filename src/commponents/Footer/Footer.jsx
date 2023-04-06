@@ -9,20 +9,20 @@ const Footer = () => {
       <div className="top">
         <div className="item">
           <h1>Categories</h1>
-          <span>Greener</span>
+          <span>Greenery</span>
           <span>Flowers</span>
           <span>Trees</span>
           <span>Accessories</span>
           <span>New Arrivals</span>
         </div>
-        <div className="item">
+        {/* <div className="item">
           <h1>Links</h1>
           <span>FAQ</span>
           <span>Pages</span>
           <span>Stores</span>
           <span>Compare</span>
           <span>Cookies</span>
-        </div>
+        </div> */}
         <div className="item">
           <h1>About</h1>
           <span>

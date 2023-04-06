@@ -7,9 +7,9 @@ const Slider = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   const data = [
-    "https://picsum.photos/1600/1000?random=1",
-    "https://picsum.photos/1600/1000?random=2",
-    "https://picsum.photos/1600/1000?random=3"
+    "https://i.pinimg.com/originals/c7/46/0e/c7460e86cfdaea11505ed13226577dff.jpg",
+    "https://cdn.shopify.com/s/files/1/0574/6822/3664/products/Joshua-Space-Recycled-Planter-1-3x4.jpg?v=1626165611",
+    "https://cdn.shopify.com/s/files/1/0419/5097/0013/products/hortensia-preservada-con-spray-1-pieza-amarillo.jpg?v=1599185382"
    
   ];
 
@@ -24,7 +24,6 @@ const Slider = () => {
   return (
     <div className="slider">
       <div className="container" style={{transform:`translateX(-${currentSlide * 100}vw)`}}>
-      {/* 这一步是放在jsx中的计算，x轴上的移动 */}
       
         <img src={data[0]} alt="" />
         <img src={data[1]} alt="" />

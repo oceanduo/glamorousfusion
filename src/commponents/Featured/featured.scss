@@ -1,15 +1,18 @@
 .featuredProducts {
-    margin: 100px 200px;
+  width: 90vw;
+    margin: 100px 5vw;
   
     .top {
       display: flex;
       align-items: center;
       justify-content: space-between;
       margin-bottom: 50px;
+      
   
       h1 {
         flex: 2;
         text-transform: capitalize;
+        text-align: center;
       }
   
       p{
