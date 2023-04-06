@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/glamorousfusion/static/css/main.1cdda95d.chunk.css",
-    "main.js": "/glamorousfusion/static/js/main.d04d9031.chunk.js",
-    "main.js.map": "/glamorousfusion/static/js/main.d04d9031.chunk.js.map",
+    "main.js": "/glamorousfusion/static/js/main.ee7e1de3.chunk.js",
+    "main.js.map": "/glamorousfusion/static/js/main.ee7e1de3.chunk.js.map",
     "runtime-main.js": "/glamorousfusion/static/js/runtime-main.bac9674a.js",
     "runtime-main.js.map": "/glamorousfusion/static/js/runtime-main.bac9674a.js.map",
     "static/js/2.921f2888.chunk.js": "/glamorousfusion/static/js/2.921f2888.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.bac9674a.js",
     "static/js/2.921f2888.chunk.js",
     "static/css/main.1cdda95d.chunk.css",
-    "static/js/main.d04d9031.chunk.js"
+    "static/js/main.ee7e1de3.chunk.js"
   ]
 }
