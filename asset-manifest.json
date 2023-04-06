@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/glamorousfusion/static/css/main.1cdda95d.chunk.css",
-    "main.js": "/glamorousfusion/static/js/main.ee7e1de3.chunk.js",
-    "main.js.map": "/glamorousfusion/static/js/main.ee7e1de3.chunk.js.map",
+    "main.css": "/glamorousfusion/static/css/main.3425010f.chunk.css",
+    "main.js": "/glamorousfusion/static/js/main.a3f35e80.chunk.js",
+    "main.js.map": "/glamorousfusion/static/js/main.a3f35e80.chunk.js.map",
     "runtime-main.js": "/glamorousfusion/static/js/runtime-main.bac9674a.js",
     "runtime-main.js.map": "/glamorousfusion/static/js/runtime-main.bac9674a.js.map",
     "static/js/2.921f2888.chunk.js": "/glamorousfusion/static/js/2.921f2888.chunk.js",
     "static/js/2.921f2888.chunk.js.map": "/glamorousfusion/static/js/2.921f2888.chunk.js.map",
     "index.html": "/glamorousfusion/index.html",
-    "static/css/main.1cdda95d.chunk.css.map": "/glamorousfusion/static/css/main.1cdda95d.chunk.css.map",
+    "static/css/main.3425010f.chunk.css.map": "/glamorousfusion/static/css/main.3425010f.chunk.css.map",
     "static/js/2.921f2888.chunk.js.LICENSE.txt": "/glamorousfusion/static/js/2.921f2888.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bac9674a.js",
     "static/js/2.921f2888.chunk.js",
-    "static/css/main.1cdda95d.chunk.css",
-    "static/js/main.ee7e1de3.chunk.js"
+    "static/css/main.3425010f.chunk.css",
+    "static/js/main.a3f35e80.chunk.js"
   ]
 }
